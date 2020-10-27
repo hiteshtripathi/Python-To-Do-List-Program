@@ -2,19 +2,14 @@
 Practical Coursera Project on HandsOn Python To Do List Program  
 
 Basics used in this project:
-Introduction
+1. Introduction
+2. Variables
+3. Functions
+4. Lists and Tuples
+5. Conditional Statements
+6. The For Loop
+7. User Input and While Loop
 
-Variables
-
-Functions
-
-Lists and Tuples
-
-Conditional Statements
-
-The For Loop
-
-User Input and While Loop
 
 For Reference:
 https://www.coursera.org/projects/first-python-program
